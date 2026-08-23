@@ -1,0 +1,7 @@
+README.md
+setup.py
+NetworkSecurityProject.egg-info/PKG-INFO
+NetworkSecurityProject.egg-info/SOURCES.txt
+NetworkSecurityProject.egg-info/dependency_links.txt
+NetworkSecurityProject.egg-info/requires.txt
+NetworkSecurityProject.egg-info/top_level.txt
